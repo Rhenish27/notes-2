@@ -1,7 +1,7 @@
 print("hello")
 
 a = 20
-b = 50
+b = 70
 print(a+b)
 
 c = "hai"
